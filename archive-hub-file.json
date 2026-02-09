@@ -1,0 +1,27 @@
+[
+    {
+    "title": "アトランティコ手稿",
+    "url": "https://codex-atlanticus.ambrosiana.it/#/",
+    "summary": "許可が必要！",
+    "mood": ["hand-drawn", "simple", ""],
+    "scene": ["personal"],
+    "artist": "da-Vinci",
+    "style": ["manuscript", "sketch"],
+    "era":   ["15th", "16th"],
+    "museum": "Biblioteca Ambrosiana",
+    "license": ["permission"]
+    },
+
+    {
+    "title": "自然の芸術的形態",
+    "url": "https://library.si.edu/digital-library/book/kunstformendern00haec",
+    "summary": "非営利利用OK！ ただしクレジット表記必須！ 商用利用は許可が必要",
+    "mood": ["hand-drawn", "", ""],
+    "scene": ["school", "personal"],
+    "artist": "Ernst-Haeckel",
+    "style": ["sketch"],
+    "era": ["19th"],
+    "museum": "Smithsonian Libraries",
+    "license": ["original"]
+    }
+]
