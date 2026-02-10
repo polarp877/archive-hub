@@ -16,12 +16,25 @@
     "title": "自然の芸術的形態",
     "url": "https://library.si.edu/digital-library/book/kunstformendern00haec",
     "summary": "非営利利用OK！ ただしクレジット表記必須！ 商用利用は許可が必要",
-    "mood": ["hand-drawn", "", ""],
+    "mood": ["hand-drawn", "beautiful"],
     "scene": ["school", "personal"],
     "artist": "Ernst-Haeckel",
     "style": ["sketch"],
     "era": ["19th"],
     "museum": "Smithsonian Libraries",
     "license": ["original"]
+    },
+
+    {
+    "title": "シカゴ美術館　コレクション",
+    "url": "https://www.artic.edu/collection?is_public_domain=1",
+    "summary": "自由に利用可能！商業利用も可能！ クレジット表記不要（「Courtesy of the Art Institute of Chicago」の表記推奨）",
+    "mood": ["fantasic", "beautiful"],
+    "scene": ["sns", "school", "personal", "commercial"],
+    "artist": "other",
+    "style": ["variety"],
+    "era": ["10th", "11th", "16th", "17th", "18th", "19th", "20th"],
+    "museum": "The Art Institute of Chicago",
+    "license": ["cc0"]
     }
 ]
