@@ -20,7 +20,7 @@ function displayData(items) {
 }
 
 function filterByLicense(license) {
-  const filtered = data.filter(item => item.era.includes(license));
+  const filtered = data.filter(item => item.license.includes(license));
   displayData(filtered);
 }
 
@@ -34,7 +34,7 @@ fetch("archive-hub-file.json")
     
     document.querySelectorAll(".license-btn").forEach(button => {
         button.addEventListener("click", () => {
-        const era = button.dataset.license;
+        const license = button.dataset.license;
         filterByLicense(license);
         });
     });
